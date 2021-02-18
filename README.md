@@ -1,6 +1,6 @@
 # PCRJ
 # Repositório Treinamento OSINFO!
-**Última atualização: 16/11/2020**
+**Última atualização: 18/02/2021**
 
 Olá, este é o repositório do Treinamento do sistema **Painel de Gestão OSINFO**
 Aqui você encontrará todos os arquivos e informações necessárias após a realização do treinamento da ferramenta.
