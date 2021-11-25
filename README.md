@@ -1,17 +1,17 @@
 # PCRJ
-# Repositório Treinamento OSINFO!
-**Última atualização: 18/02/2021**
+# Repositório do Painel de Gestão OSINFO
+**Última atualização: 25/11/2021**
 
 Olá, este é o repositório do Treinamento do sistema **Painel de Gestão OSINFO**
-Aqui você encontrará todos os arquivos e informações necessárias após a realização do treinamento da ferramenta.
+Aqui você encontrará todos os arquivos e informações necessárias para o entendimento da ferramenta.
 
-**Site da MAPS/CODESP**
-- _Neste link você encontra toda a legislação e demais informações relacionadas a prestação de contas:_
-http://www.rio.rj.gov.br/web/cvl/maps
+**Site do Núcleo de Monitoramento da Prestação de Contas – NMPC**  
 
-Arquivos adicionais:
-- Manual de utilização do sistema;
-- Plano de Contas;
-- Rubricas;
-- Arquivos modelo de importação de Despesas, Bens, Saldos, Receitas, Fornecedores, Itens de Nota Fiscal e Contratos de Terceiros;
-- Ofício Circular 05/2019, que informa como inserir declarações, certidões e outros documentos institucionais.
+-   _[Neste link (https://fazenda.prefeitura.rio/nmpc/)](https://fazenda.prefeitura.rio/nmpc/) você encontrará os Relatórios de Monitoramento e Controle, NORMAS E PROCEDIMENTOS DE CONTROLE, FLUXO DE RETIFICAÇÃO, I – LEIS, II – DECRETOS, III – RESOLUÇÕES, IV – DELIBERAÇÕES e demais informações relacionadas a prestação de contas._
+
+**Arquivos adicionais:**  
+
+-   Manual de utilização do sistema;
+-   Plano de Contas;
+-   Rubricas;
+-   Arquivos modelo de importação de Despesas, Bens, Saldos, Receitas, Fornecedores, Itens de Nota Fiscal e Contratos de Terceiros.
